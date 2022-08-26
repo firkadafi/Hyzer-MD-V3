@@ -26,7 +26,7 @@ global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'Firz store'
 global.watermark = wm
 global.wm2 = '                     「 Firz store あ⁩ 」'
-global.wm3 = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm3 = 'Firz store'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
@@ -37,7 +37,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
 global.packname = '2022'
-global.author = '© Hyzer Official'
+global.author = '© Firz store'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
